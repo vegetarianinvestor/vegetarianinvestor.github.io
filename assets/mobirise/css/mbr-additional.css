@@ -1872,7 +1872,7 @@ body {
 .cid-rjnl2w3R2I {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rjnl2w3R2I .content-slider {
   display: -webkit-flex;
@@ -2155,7 +2155,8 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rjnlk2PPjJ .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
+  text-align: center;
 }
 .cid-rjnlk2PPjJ a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2172,6 +2173,9 @@ body {
 .cid-rjnlk2PPjJ .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-rjnlk2PPjJ H2 {
+  color: #232323;
 }
 .cid-rjrpjrjwH2 {
   padding-top: 0px;
