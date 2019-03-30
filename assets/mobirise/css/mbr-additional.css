@@ -3497,6 +3497,19 @@ body {
   padding-bottom: 75px;
   background-image: url("../../../assets/images/website-background-d5moc7-c-scalew-1400-1400x599.jpg");
 }
+.cid-rm7tMDQwlQ {
+  background: #232323;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rm7tMDQwlQ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rm7tMDQwlQ .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rjn0czb03p {
   padding-top: 15px;
   padding-bottom: 15px;
