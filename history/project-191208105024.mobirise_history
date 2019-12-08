@@ -34,28 +34,19 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
-    "siteFonts": [
-      {
-        "css": "'Rubik', sans-serif",
-        "name": "Rubik",
-        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
-      }
-    ],
+    "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/logo2-128x128.png",
     "noImageResize": "",
     "сanonical-url": "",
     "uniqCompNum": 59,
-    "versionPublish": "4.11.6",
+    "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-136365951-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-136365951-1');\r\n</script>",
-    "canonical-url": "",
-    "publishType": "local",
-    "publishPath": "file:///E:/Sundry/P/VegetarianInvestments/Website/vegetarianinvestor.github.io"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-136365951-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-136365951-1');\r\n</script>"
   },
   "pages": {
     "trueveg.html": {
       "settings": {
-        "meta_descr": "Personal investment planning service that structures your investments to ensure that they do not cause any animal cruelty and also meet your financial goals. Cruelty Free Investments. Being a true vegetarian  ",
+        "meta_descr": "Cruelty free investments\nBlood money\nBlood free money\nVegan investments\nVegetarian investments\nAhimsak investments\nAhinsak investments\nEthical investments\nJain investments",
         "title": "True Vegetarian",
         "order": 2
       },
@@ -717,7 +708,7 @@
     },
     "bloodmoney.html": {
       "settings": {
-        "meta_descr": "Personal investment planning service that structures your investments to ensure that they do not cause any animal cruelty and also meet your financial goals. Cruelty Free Investments. Being a true vegetarian  ",
+        "meta_descr": "Cruelty free investments\nBlood money\nBlood free money\nVegan investments\nVegetarian investments\nAhimsak investments\nAhinsak investments\nEthical investments\nJain investments",
         "title": "Blood Money",
         "order": 3
       },
@@ -1379,7 +1370,7 @@
     },
     "ethicalinv.html": {
       "settings": {
-        "meta_descr": "Personal investment planning service that structures your investments to ensure that they do not cause any animal cruelty and also meet your financial goals. Cruelty Free Investments. Being a true vegetarian  ",
+        "meta_descr": "Cruelty free investments\nBlood money\nBlood free money\nVegan investments\nVegetarian investments\nAhimsak investments\nAhinsak investments\nEthical investments\nJain investments",
         "title": "Ethical Investments",
         "order": 4
       },
@@ -2078,7 +2069,7 @@
       "settings": {
         "main": true,
         "title": "Vegetarian Investments",
-        "meta_descr": "Personal investment planning service that structures your investments to ensure that they do not cause any animal cruelty and also meet your financial goals. Cruelty Free Investments. Being a true vegetarian  ",
+        "meta_descr": "Cruelty free investments\nBlood money\nBlood free money\nVegan investments\nVegetarian investments\nAhimsak investments\nAhinsak investments\nEthical investments\nJain investments",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
