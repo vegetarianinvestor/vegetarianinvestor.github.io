@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vegetarian Investments",
-    "currentPage": "ethicalinv.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,12 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-136365951-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-136365951-1');\r\n</script>",
     "canonical-url": "",
     "publishType": "local",
-    "publishPath": "file:///E:/Sundry/P/VegetarianInvestments/Website/vegetarianinvestor.github.io"
+    "publishPath": "file:///E:/Sundry/P/VegetarianInvestments/Website/vegetarianinvestor.github.io",
+    "robotsSwitcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "sitemapSwitcher": false,
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "trueveg.html": {
