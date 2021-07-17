@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Vegetarian Investments</title>
+    <title>Categories on Cruelty Free Investments</title>
     <link>https://vegetarianinvestments.in/categories/</link>
-    <description>Recent content in Categories on Vegetarian Investments</description>
+    <description>Recent content in Categories on Cruelty Free Investments</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright [Vegetarian Investments](https://vegetarianinvestments.in/). All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 03 Jul 2021 11:30:00 +0530</lastBuildDate><atom:link href="https://vegetarianinvestments.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jul 2021 11:30:00 +0530</lastBuildDate><atom:link href="https://vegetarianinvestments.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Protection Laws</title>
+      <link>https://vegetarianinvestments.in/categories/animal-protection-laws/</link>
+      <pubDate>Sat, 17 Jul 2021 11:30:00 +0530</pubDate>
+      
+      <guid>https://vegetarianinvestments.in/categories/animal-protection-laws/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Cruelty Free Investments</title>
       <link>https://vegetarianinvestments.in/categories/cruelty-free-investments/</link>
