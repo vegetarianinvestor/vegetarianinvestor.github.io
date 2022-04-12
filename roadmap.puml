@@ -1,5 +1,9 @@
 @startmindmap
-
+<style>
+    node {
+            MaximumWidth 150
+        }
+</style>
 + Cruelty Free Investments
 ++ Promotions
 +++ Find your cruelty free investment index
@@ -7,14 +11,16 @@
 ++++ Runtime calculation
 ++++ Categorization (red, orange, green etc) - same as investment guide
 +++ BWC Investment Guide
+++++ Line graph of real investments compared with nifty50
 ++++ Mobile friendly interactive web page
 ++++ Guidance on orange category
 ++++ Debt investment options
 ++++ Connect with private investor (similar to discount coupons?)
 +++ Surveys to connect with people
-++++ Circulated within groups
+++++ Understand challenges
+++++ Circulated within whatsapp groups
 +++++ Hindi & English versions
-++++ Shared with BWC members
+++++ Shared with BWC members (email)
 +++ Visual graphics
 +++ Infographics
 +++ Jain Media
@@ -31,10 +37,17 @@
 ----- Equity
 --- Challenges in implemention
 ---- Difficulty in equity investments
------ Market fear
+----- Doubt of making profits
+------ Portfolio performance graph
+----- Direct equity fear
+------ Private Financial Advisor
 ----- Lack of knowledge
+------ Private Financial Advisor
 ----- Lack of time
+------ Private Financial Advisor
 ---- Portfolio management : Goal achievement
 ----- Balanced portfolio needs debt options
+------ Private Financial Advisor
 ----- Lack of options other than stocks
+------ Private Financial Advisor
 @endmindmap
